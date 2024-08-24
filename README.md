@@ -9,3 +9,7 @@
  - ZTP-148SR, Infared temperature sensor |	$1.77
  - PART 16X2 LCD ASSEMBLED	|	$11.00
  - DS18B20, Thermometer |	$3.60
+
+# Project prototypes
+![Arduino Wiring](https://github.com/AlexN0va/Feline-Fine/blob/main/felinefineimages/IMG_7693.jpg)
+![Arduino Wiring](https://github.com/AlexN0va/Feline-Fine/blob/main/felinefineimages/IMG_7695.jpg)
