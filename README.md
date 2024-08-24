@@ -10,6 +10,9 @@
  - PART 16X2 LCD ASSEMBLED	|	$11.00
  - DS18B20, Thermometer |	$3.60
 
+## My Role
+As a programmer and designer, I worked to use numerous Arduino libraries like SparkFun and Onshape to make a functioning prototype. 
+
 # Project prototypes
 ![Arduino Wiring](https://github.com/AlexN0va/Feline-Fine/blob/main/felinefineimages/IMG_7703_(1).jpg)
 ![Arduino Wiring](https://github.com/AlexN0va/Feline-Fine/blob/main/felinefineimages/IMG_7695.jpg)
