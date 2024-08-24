@@ -11,5 +11,5 @@
  - DS18B20, Thermometer |	$3.60
 
 # Project prototypes
-![Arduino Wiring](https://github.com/AlexN0va/Feline-Fine/blob/main/felinefineimages/IMG_7693.jpg)
+![Arduino Wiring](https://github.com/AlexN0va/Feline-Fine/blob/main/felinefineimages/IMG_7703_(1).jpg)
 ![Arduino Wiring](https://github.com/AlexN0va/Feline-Fine/blob/main/felinefineimages/IMG_7695.jpg)
